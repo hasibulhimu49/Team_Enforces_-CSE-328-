@@ -78,7 +78,7 @@ NatureNest is an initiative to inspire environmental conservation through techno
 
 The **DFD** demonstrates the flow of data within the NatureNest system, illustrating the interaction between users, the application, and the database.
 
-![DFD](docs/diagrams/dfd.png)  
+![DFD](https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/NatureNest_DFD_0.jpg)  
 *This diagram highlights user interactions, backend processing, and data storage in NatureNest.*
 
 ---
@@ -87,7 +87,7 @@ The **DFD** demonstrates the flow of data within the NatureNest system, illustra
 
 The **ER Diagram** showcases the database design for NatureNest, focusing on the relationships between key entities.
 
-![ER Diagram](docs/diagrams/er-diagram.png)  
+![ER Diagram](https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/ER%20Diagram.jpg)  
 *This diagram defines relationships between users, orders, and products in the database.*
 
 ---
@@ -96,7 +96,7 @@ The **ER Diagram** showcases the database design for NatureNest, focusing on the
 
 The **Use Case Diagram** describes the primary functionalities of the NatureNest platform from a user’s perspective.
 
-![Use Case Diagram](docs/diagrams/use-case-diagram.png)  
+![Use Case Diagram](https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/Use%20case%20diagram.jpeg)  
 *This diagram captures the interactions users have with the NatureNest system.*
 
 ---
