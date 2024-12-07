@@ -55,20 +55,15 @@ NatureNest is an initiative to inspire environmental conservation through techno
 
 ## Team Members
 
-1. **Mohammad Hasibul Hasan**  
-   _Role_: Team Leader, Frontend Developer  
+1. **Mohammad Hasibul Hasan**   
 
 2. **Eshtiaque Ahmed**  
-   _Role_: Backend Developer  
 
 3. **Shah Md Hasibur Rahaman Hasib**  
-   _Role_: Backend Developer  
 
-4. **S.M. Sabbir Ahmed**  
-   _Role_: Database Administrator (DBA)  
+4. **S.M. Sabbir Ahmed**   
 
-5. **MD Rakibul Alam Emon**  
-   _Role_: UI/UX Designer  
+5. **MD Rakibul Alam Emon**   
 
 ---
 
@@ -115,6 +110,6 @@ The **Use Case Diagram** describes the primary functionalities of the NatureNest
 
 
 ### Future Enhancements
-Add secure payment gateway integrations.
-Develop AI-powered personalized tree recommendations.
-Expand disease detection capabilities with more advanced AI models.
+1. Add secure payment gateway integrations.
+2. Develop AI-powered personalized tree recommendations.
+3. Expand disease detection capabilities with more advanced AI models.
