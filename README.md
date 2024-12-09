@@ -51,6 +51,10 @@ NatureNest is an initiative to inspire environmental conservation through techno
 ### Database
 - MongoDB (fragmented structure: UserDB, ProductOrderDB)
 
+### AI integration
+- D3.js
+-TensorFlow
+
 ---
 
 ## Team Members
