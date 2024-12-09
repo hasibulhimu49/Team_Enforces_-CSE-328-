@@ -1,0 +1,349 @@
+[
+    {
+      "name": "Mahogany Tree",
+      "description": "A highly-prized hardwood tree with rich reddish-brown timber, known for its durability and strength.",
+      "price": 150.00,
+      "discountPrice": 130.00,
+      "quantity": 100,
+      "category": "Trees", 
+      "subcategory": "mahogany",
+      "productCode": "MAHOGANY001",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Teak Tree",
+      "description": "A tropical hardwood tree, valued for its durable and water-resistant timber.",
+      "price": 140.00,
+      "discountPrice": 120.00,
+      "quantity": 100,
+      "category": "Trees", 
+      "subcategory": "teak",
+      "productCode": "TEAK002",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Pine Tree",
+      "description": "A hardy evergreen tree with needle-like leaves and a fresh pine scent. Ideal for year-round greenery.",
+      "price": 85.00,
+      "discountPrice": 70.00,
+      "quantity": 100,
+      "category": "Trees", 
+      "subcategory": "pine",
+      "productCode": "PINE003",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Rose",
+      "description": "A classic flower known for its elegant petals and rich fragrance. Perfect for romantic occasions.",
+      "price": 15.00,
+      "discountPrice": 12.00,
+      "quantity": 1000,
+      "category": "Flowers", 
+      "subcategory": "rose",
+      "productCode": "ROSE004",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Tulip",
+      "description": "A vibrant flower with a smooth, cup-shaped bloom. Great for spring gardens.",
+      "price": 12.00,
+      "discountPrice": 10.00,
+      "quantity": 800,
+      "category": "Flowers", 
+      "subcategory": "tulip",
+      "productCode": "TULIP005",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Sunflower",
+      "description": "A tall flower with a large, vibrant yellow bloom. Perfect for adding a sunny touch.",
+      "price": 20.00,
+      "discountPrice": 16.00,
+      "quantity": 600,
+      "category": "Flowers", 
+      "subcategory": "sunflower",
+      "productCode": "SUNFLOWER006",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Indoor Plants",
+      "description": "A collection of plants that thrive in low light and indoor conditions, perfect for home decor.",
+      "price": 25.00,
+      "discountPrice": 20.00,
+      "quantity": 300,
+      "category": "Green-plants", 
+      "subcategory": "indoor",
+      "productCode": "INDOOR_PLANTS007",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Outdoor Plants",
+      "description": "Hardy plants designed to thrive in outdoor environments, ideal for gardens and landscaping.",
+      "price": 30.00,
+      "discountPrice": 25.00,
+      "quantity": 400,
+      "category": "Green-plants", 
+      "subcategory": "outdoor",
+      "productCode": "OUTDOOR_PLANTS008",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Apple Tree",
+      "description": "A fruit-bearing tree known for its sweet and crisp apples. Great for home orchards.",
+      "price": 50.00,
+      "discountPrice": 40.00,
+      "quantity": 300,
+      "category": "Fruits", 
+      "subcategory": "apple",
+      "productCode": "APPLE009",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Berries fruits",
+      "description": "A collection of berry-bearing shrubs, including blueberries and raspberries, perfect for a home garden.",
+      "price": 40.00,
+      "discountPrice": 35.00,
+      "quantity": 350,
+      "category": "Fruits", 
+      "subcategory": "berries",
+      "productCode": "BERRIES010",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Orange Tree",
+      "description": "A citrus tree known for producing juicy and sweet oranges. Ideal for warm climates and home gardens.",
+      "price": 65.00,
+      "discountPrice": 55.00,
+      "quantity": 250,
+      "category": "Fruits", 
+      "subcategory": "orange",
+      "productCode": "ORANGE011",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Spinach",
+      "description": "A leafy green vegetable, rich in iron and vitamins, perfect for salads and cooking.",
+      "price": 5.00,
+      "discountPrice": 4.00,
+      "quantity": 1000,
+      "category": "Vegetables",
+      "subcategory": "spinach",
+      "productCode": "SPINACH012",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Broccoli",
+      "description": "A green vegetable with a dense cluster of florets. Excellent for healthy meals and salads.",
+      "price": 6.00,
+      "discountPrice": 5.00,
+      "quantity": 800,
+      "category": "Vegetables",
+      "subcategory": "broccoli",
+      "productCode": "BROCCOLI013",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+  
+    {
+      "name": "Sunflower Seeds",
+      "description": "Nutrient-rich seeds from sunflowers, perfect for snacking or planting new flowers.",
+      "price": 8.00,
+      "discountPrice": 6.00,
+      "quantity": 1200,
+      "category": "Seeds",
+      "subcategory": "sunflower-seeds",
+      "productCode": "SUNFLOWER_SEEDS014",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "description": "Seeds from pumpkins, great for planting your own pumpkins or enjoying as a healthy snack.",
+      "price": 7.00,
+      "discountPrice": 5.50,
+      "quantity": 1000,
+      "category": "Seeds",
+      "subcategory": "pumpkin-seeds",
+      "productCode": "PUMPKIN_SEEDS015",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Chia Seeds",
+      "description": "High-nutrient seeds from the chia plant, perfect for smoothies, salads, and health-conscious recipes.",
+      "price": 9.00,
+      "discountPrice": 7.50,
+      "quantity": 1100,
+      "category": "Seeds",
+      "subcategory": "chia-seeds",
+      "productCode": "CHIA_SEEDS016",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+
+    {
+      "name": "Gardening Tools",
+      "description": "A set of essential gardening tools including trowels, shears, and gloves, perfect for home gardeners.",
+      "price": 30.00,
+      "discountPrice": 25.00,
+      "quantity": 500,
+      "category": "Others",
+      "subcategory": "tools",
+      "productCode": "GARDEN_TOOLS017",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Garden Supplies",
+      "description": "A range of supplies including soil, fertilizers, and pots for all your gardening needs.",
+      "price": 15.00,
+      "discountPrice": 12.00,
+      "quantity": 600,
+      "category": "Others",
+      "subcategory": "supplies",
+      "productCode": "GARDEN_SUPPLIES018",
+      "status": "active",
+      "level": "standard",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    },
+    {
+      "name": "Garden Decor",
+      "description": "Beautiful and functional decor items including statues, planters, and outdoor lights to enhance your garden.",
+      "price": 40.00,
+      "discountPrice": 35.00,
+      "quantity": 400,
+      "category": "Others",
+      "subcategory": "decor",
+      "productCode": "GARDEN_DECOR019",
+      "status": "active",
+      "level": "premium",
+      "images": [
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg",
+        "../public/Assets/vaseGrass.jpg"
+      ],
+      "isDeleted": false
+    }
+]
+  
+  
+  
