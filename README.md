@@ -100,7 +100,7 @@ The **Use Case Diagram** describes the primary functionalities of the NatureNest
 
 The **Schema Diagram** details the database schema, including tables, fields, and relationships.  
 
-<img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/Schema%20Diagram.jpg" alt="Schema Diagram" width="600" />
+<img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/Schena%20Diagram.jpg" />
 *This diagram provides a detailed view of the database schema for NatureNest.*
 
 ---
