@@ -41,10 +41,12 @@ NatureNest is an initiative to inspire environmental conservation through techno
 ## Technologies Used
 
 ### Frontend
+- Tailwind CSS
 - React.js  
 - Figma (for UI/UX design)  
 
 ### Backend
+- Typescript
 - Node.js  
 - Express.js  
 
