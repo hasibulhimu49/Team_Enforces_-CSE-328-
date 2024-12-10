@@ -111,7 +111,8 @@ The **Use Case Diagram** describes the primary functionalities of the NatureNest
 ###  Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/naturenest.git```
+git clone https://github.com/Eshtiaque/Invoice-Generate.git
+```
 ###  Install Dependencies
 ```bash
 npm install  
