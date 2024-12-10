@@ -32,7 +32,7 @@ NatureNest is an initiative to inspire environmental conservation through techno
 ## Features
 
 - **Tree Marketplace**: Browse, search, and purchase various trees.  
-- **Plant Disease Detection**: AI-based feature for identifying and resolving plant diseases.  
+- **Plant Disease Detection**: AI-based feature for identifying and resolving plant diseases.(Working)  
 - **Secure User Management**: Fragmented database for improved security and scalability.  
 - **Environmental Awareness Content**: Informative blogs and tips on tree planting and care.  
 
@@ -140,29 +140,62 @@ The **Schema Diagram** details the database schema, including tables, fields, an
 - **Product Page**  
   <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.01%20PM%20(1).jpeg" alt="Product Page Screenshot" width="600" />
 
-- **Checkout Page**  
-  <img src="#" alt="Checkout Page Screenshot" width="600" />
+- **Related Product & Review**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(3).jpeg" alt="Related Product Page Screenshot" width="600" />
 
 ---
 
 ### Admin Dashboard
 
 - **Overview Page**  
-  <img src="#" alt="Admin Dashboard Screenshot" width="600" />
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-11-23%20at%208.18.18%20PM.jpeg" alt="Admin Dashboard Screenshot" width="600" />
 
 ---
 
 ### Inventory Management
 
 - **Inventory Page**  
-  <img src="#" alt="Inventory Management Screenshot" width="600" />
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(7).jpeg" alt="Inventory Management Screenshot" width="600" />
+
+  ### Customer Review
+
+- **Review Page**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(7).jpeg" alt="Review Screenshot" width="600" />
+
+   ### Customer List
+
+- **User Page**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(11).jpeg" alt="Customer List Screenshot" width="600" />
+
+   ### Order List
+
+- **Order Page**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(10).jpeg" alt="Order Page Screenshot" width="600" />
 
 ---
 
 ### Product Management
 
 - **Product Management Page**  
-  <img src="#" alt="Product Management Screenshot" width="600" />
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(9).jpeg" alt="Product Management Screenshot" width="600" />
+
+   **Edit product**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(8).jpeg" alt="Edit Product Screenshot" width="600" />
+
+---
+
+### My Card
+
+- **My Card**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(2).jpeg" alt="My Card Screenshot" width="600" />
+
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(6).jpeg" alt="Card Screeshot" width="600" />
+
+  **Order Summary**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(5).jpeg" alt="Order Management Screenshot" width="600" />
+
+   **Edit product**  
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(8).jpeg" alt="Product Edit Screenshot" width="600" />
 
 ---
 
@@ -172,6 +205,8 @@ The **Schema Diagram** details the database schema, including tables, fields, an
 2. Develop AI-powered personalized tree recommendations.  
 3. Expand disease detection capabilities with more advanced AI models.  
 
+***Develop AI-powered personalized tree recommendations.***
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/Subheading%20(1).png" alt=" Visualization " width="600" />
 ---
 
 ## Contributing
