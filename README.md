@@ -112,6 +112,17 @@ The **Use Case Diagram** describes the primary functionalities of the NatureNest
    ```bash
    git clone https://github.com/yourusername/naturenest.git
 
+   ###  Install Dependencies
+```bash
+npm install  
+```
+ <br/> (  if you can't run it then install npm globally)
+
+###  Start the Application
+```bash
+npm run dev
+```
+
 
 ### Future Enhancements
 1. Add secure payment gateway integrations.
