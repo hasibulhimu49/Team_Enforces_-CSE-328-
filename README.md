@@ -53,17 +53,8 @@ NatureNest is an initiative to inspire environmental conservation through techno
 
 ### AI Integration
 - TensorFlow  
-- D3.js  
-
----
-
-## Team Members
-
-1. **Mohammad Hasibul Hasan** (Team Leader, Frontend Developer)  
-2. **Eshtiaque Ahmed** (Backend Developer)  
-3. **Shah Md Hasibur Rahaman Hasib** (Backend Developer)  
-4. **S.M. Sabbir Ahmed** (Database Administrator)  
-5. **MD Rakibul Alam Emon** (UI/UX Designer)  
+- D3.js 
+- Kaggle 
 
 ---
 
@@ -160,7 +151,7 @@ The **Schema Diagram** details the database schema, including tables, fields, an
   ### Customer Review
 
 - **Review Page**  
-  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(12).jpeg.jpeg" alt="Review Screenshot" width="600" />
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(12).jpeg" alt="Review Screenshot" width="600" />
 
    ### Customer List
 
@@ -206,8 +197,15 @@ The **Schema Diagram** details the database schema, including tables, fields, an
   <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/Subheading%20(1).png" alt=" Visualization " width="600" />
 ---
 
-## Contributing
+## Team Members
 
+1. **Mohammad Hasibul Hasan** (Team Leader)  
+2. **Eshtiaque Ahmed** 
+3. **Shah Md Hasibur Rahaman Hasib**
+4. **S.M. Sabbir Ahmed** 
+5. **MD Rakibul Alam Emon**
+---
+## Contributing
 Contributions are welcome! If you have ideas for features or improvements, please feel free to open a pull request or issue on the GitHub repository.
 
 ---
