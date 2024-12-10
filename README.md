@@ -160,7 +160,7 @@ The **Schema Diagram** details the database schema, including tables, fields, an
   ### Customer Review
 
 - **Review Page**  
-  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(7).jpeg" alt="Review Screenshot" width="600" />
+  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(12).jpeg.jpeg" alt="Review Screenshot" width="600" />
 
    ### Customer List
 
@@ -193,9 +193,6 @@ The **Schema Diagram** details the database schema, including tables, fields, an
 
   **Order Summary**  
   <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(5).jpeg" alt="Order Management Screenshot" width="600" />
-
-   **Edit product**  
-  <img src="https://github.com/hasibulhimu49/Team_Enforces_NatureNest/blob/main/Images/WhatsApp%20Image%202024-12-10%20at%2011.02.02%20PM%20(8).jpeg" alt="Product Edit Screenshot" width="600" />
 
 ---
 
