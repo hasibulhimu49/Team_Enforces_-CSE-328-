@@ -108,11 +108,11 @@ The **Use Case Diagram** describes the primary functionalities of the NatureNest
 
 ### Setup Instructions
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/naturenest.git
+###  Clone the Repository
 
-   ###  Install Dependencies
+```bash
+git clone https://github.com/yourusername/naturenest.git```
+###  Install Dependencies
 ```bash
 npm install  
 ```
